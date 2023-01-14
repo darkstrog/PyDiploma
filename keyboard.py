@@ -17,7 +17,7 @@ keyboard = {
     "one_time": False,
     "buttons": [
         [get_button('Начать новый поиск', 'primary')],
-        [get_button('Вперёд', 'secondary')]
+        [get_button('Вперёд', 'secondary')],
     ]
 }
 
